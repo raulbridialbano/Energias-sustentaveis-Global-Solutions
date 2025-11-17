@@ -21,4 +21,5 @@ else:
 
 print(f'Pra essa cidade recomendamos uso de {Status}')
 print(f'O consumo mensal de energia é de  {ConMen} kWh' )
+
 print(f'O custo de instalar essa usina/gerador vai ser de {custo}'.2f)
